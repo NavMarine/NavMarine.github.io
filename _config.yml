@@ -10,7 +10,6 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-include-cache
 
 # Navigation
 nav:
