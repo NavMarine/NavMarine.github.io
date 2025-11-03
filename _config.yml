@@ -6,7 +6,7 @@ author:
   email: "contact@quartcentral.fr"
 
 # Thème
-remote_theme: mmistakes/minimal-mistakes@4.29.0
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
